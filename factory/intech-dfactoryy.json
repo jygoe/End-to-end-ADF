@@ -1,0 +1,9 @@
+{
+	"name": "intech-dfactoryy",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9b95860-27df-4e48-94d1-39333d870bf8",
+		"tenantId": "0e0db2ad-c416-47c7-88ec-ceac4ee76767"
+	}
+}
