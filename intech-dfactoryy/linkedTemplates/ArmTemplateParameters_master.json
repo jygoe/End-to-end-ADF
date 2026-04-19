@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "intech-dfactoryy"
+		},
+		"AzureDataLakeStorageLinkedService_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorageLinkedService_properties_typeProperties_url": {
+			"value": "https://intechsgggg.dfs.core.windows.net/"
+		},
+		"AzureDatabricksALinkedService_properties_typeProperties_existingClusterId": {
+			"value": "0418-072108-o6fsutgy"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://intech-kvaultt.vault.azure.net/"
+		},
+		"AzureKeyVault2_properties_typeProperties_baseUrl": {
+			"value": "https://intech-kvaultt.vault.azure.net/"
+		},
+		"SqlServerOnPremLinkeddService_properties_typeProperties_server": {
+			"value": "LAPTOP-LVBI8JEC\\SQLEXPRESS"
+		},
+		"SqlServerOnPremLinkeddService_properties_typeProperties_database": {
+			"value": "AdventureWorksLT2022"
+		},
+		"SqlServerOnPremLinkeddService_properties_typeProperties_userName": {
+			"value": "jy"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
